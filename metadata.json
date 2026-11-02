@@ -1,0 +1,6 @@
+{
+  "name": "Arbitrary Shaped Density Function - Automotive Reliability Engineering",
+  "description": "High-precision analytical probabilistic density function regression with multiple extremums, reliability curves R(t), failure rate λ(t), and MTBF calculation for automotive hardware.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
